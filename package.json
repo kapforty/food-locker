@@ -10,6 +10,7 @@
   "dependencies": {
     "expo": "~43.0.0",
     "expo-status-bar": "~1.1.0",
+    "firebase": "^9.5.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.2",
@@ -18,5 +19,19 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "private": true,
+  "name": "food-locker",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordanangin/food-locker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordanangin/food-locker/issues"
+  },
+  "homepage": "https://github.com/jordanangin/food-locker#readme",
+  "description": ""
 }
