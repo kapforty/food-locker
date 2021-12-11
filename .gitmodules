@@ -1,0 +1,3 @@
+[submodule "food_locker"]
+	path = food_locker
+	url = https://github.com/dfabella/food_locker.git
